@@ -67,11 +67,11 @@ The stack was fully containerized using **Docker**, allowing seamless deployment
 
 The screenshots below show the application's interface and the interactive visualizations produced from the dataset.
 
-<img src="https://github.com/thiouneEtu/data_visualization/blob/main/Res1.PNG" width="500" />
+<img src="https://github.com/thiouneba/data_visualization/blob/main/Res1.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/data_visualization/blob/main/Res2.PNG" width="500" />
+<img src="https://github.com/thiouneba/data_visualization/blob/main/Res2.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/data_visualization/blob/main/Res3.PNG" width="500" />
+<img src="https://github.com/thiouneba/data_visualization/blob/main/Res3.PNG" width="500" />
 
 ---
 
